@@ -1,0 +1,126 @@
+﻿# Compiled object files
+*.o
+*.obj
+*.dll
+*.exe
+*.log
+*.sql
+*.sqlite
+*.pdb
+
+# Folders
+bin/
+obj/
+packages/
+Properties/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.history/
+node_modules/
+
+# Rider directories
+.idea/
+.idea_modules/
+
+# Local history for Visual Studio
+.localhistory/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# VS Code extension specific files
+.vscode/extensions.json
+.vscode/settings.json
+.vscode/tasks.json
+
+# DotNet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Log files
+*.log
+
+# DotNet Publish folder
+**/bin/
+**/obj/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.symbols.nupkg
+.nuget/packages/
+packages/
+# Except build/, since NuGet packages could be checked in there
+!build/
+
+# Including SDK auto-generated build artifacts
+build/generated/
+
+# Ensure that no .NET assembly can be compiled as part of the solution
+*.dll
+
+# Ensure that no windows executable file is compiled as part of the solution
+*.exe
+
+# Rider's working directories
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+
+# JetBrains user-specific files
+.idea/usage.statistics.xml
+.idea/assetWizardCachedSettings.xml
+.idea/shelf/
+.idea/shelf.xml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider's working directories
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+.vs/
